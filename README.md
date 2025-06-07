@@ -22,9 +22,8 @@ Then open the dev server URL shown in the terminal.
 
 ## Folder Structure
 
-- `workflow-editor-poc/` – Vue application
-  - `src/` – Source files
-  - `package.json` – dependencies
+- `src/` – Source files for the Vue workflow editor
+- `package.json` – Project dependencies and scripts
 
 ## Next Steps
 
