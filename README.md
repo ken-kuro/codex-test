@@ -8,6 +8,7 @@ This repository contains a proof of concept workflow editor built with **Vue 3**
 - Connect nodes to build flows
 - Import and export flows as JSON
 - Easily extendable with custom node types
+- Basic node editor and flow runner
 
 The initial PoC runs a list of simple function nodes, but the architecture is designed so more advanced features can be added.
 
@@ -30,3 +31,4 @@ Then open the dev server URL shown in the terminal.
 - Add support for more node types
 - Persistence and templates
 - Nested workflows and subflows
+- Improved execution engine
